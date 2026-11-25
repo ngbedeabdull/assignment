@@ -1,0 +1,1050 @@
+[
+  {
+    "vehicle_id": "FL-101",
+    "make_model": "Freightliner Cascadia",
+    "status": "Active",
+    "telemetry": {
+      "gps": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "fuel_level_pct": 74.5,
+      "fuel_drop_5m_pct": 0.4,
+      "coolant_temp_c": 92,
+      "oil_pressure_psi": 48,
+      "fuel_rate_lph": 26.8,
+      "mpg": 7.9,
+      "co2_tons_month": 4.8,
+      "odometer_km": 142300,
+      "idle_time_mins_today": 45
+    },
+    "maintenance": {
+      "health_score": 88,
+      "active_dtc": [],
+      "last_service_date": "2026-10-15",
+      "next_service_due": "2026-12-15"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          88,
+          85,
+          82,
+          79,
+          77,
+          74.5
+        ],
+        "dist": [
+          42,
+          118,
+          195,
+          270,
+          342,
+          410
+        ],
+        "coolant": [
+          88,
+          90,
+          91,
+          92,
+          91,
+          92
+        ],
+        "oil": [
+          49,
+          48,
+          48,
+          47,
+          48,
+          48
+        ]
+      },
+      "7d": {
+        "fuel": [
+          92,
+          65,
+          89,
+          58,
+          84,
+          74.5
+        ],
+        "dist": [
+          410,
+          820,
+          1210,
+          1650,
+          2040,
+          2480
+        ],
+        "coolant": [
+          89,
+          91,
+          90,
+          92,
+          91,
+          92
+        ],
+        "oil": [
+          48,
+          47,
+          48,
+          48,
+          47,
+          48
+        ]
+      },
+      "30d": {
+        "fuel": [
+          85,
+          72,
+          90,
+          61,
+          78,
+          74.5
+        ],
+        "dist": [
+          1800,
+          3600,
+          5400,
+          7200,
+          9100,
+          10850
+        ],
+        "coolant": [
+          88,
+          89,
+          91,
+          90,
+          92,
+          92
+        ],
+        "oil": [
+          49,
+          48,
+          48,
+          47,
+          48,
+          48
+        ]
+      }
+    }
+  },
+  {
+    "vehicle_id": "FL-102",
+    "make_model": "Volvo VNL 860",
+    "status": "Active",
+    "telemetry": {
+      "gps": {
+        "lat": 37.8044,
+        "lng": -122.2712
+      },
+      "fuel_level_pct": 81.2,
+      "fuel_drop_5m_pct": 0.3,
+      "coolant_temp_c": 89,
+      "oil_pressure_psi": 51,
+      "fuel_rate_lph": 25.1,
+      "mpg": 8.2,
+      "co2_tons_month": 4.5,
+      "odometer_km": 98450,
+      "idle_time_mins_today": 28
+    },
+    "maintenance": {
+      "health_score": 94,
+      "active_dtc": [],
+      "last_service_date": "2026-11-02",
+      "next_service_due": "2027-01-10"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          94,
+          91,
+          88,
+          86,
+          83,
+          81.2
+        ],
+        "dist": [
+          38,
+          105,
+          180,
+          255,
+          328,
+          395
+        ],
+        "coolant": [
+          86,
+          87,
+          88,
+          89,
+          89,
+          89
+        ],
+        "oil": [
+          52,
+          51,
+          51,
+          50,
+          51,
+          51
+        ]
+      },
+      "7d": {
+        "fuel": [
+          95,
+          71,
+          88,
+          62,
+          90,
+          81.2
+        ],
+        "dist": [
+          390,
+          780,
+          1190,
+          1580,
+          1960,
+          2390
+        ],
+        "coolant": [
+          87,
+          88,
+          88,
+          89,
+          89,
+          89
+        ],
+        "oil": [
+          51,
+          51,
+          50,
+          51,
+          51,
+          51
+        ]
+      },
+      "30d": {
+        "fuel": [
+          90,
+          75,
+          86,
+          68,
+          84,
+          81.2
+        ],
+        "dist": [
+          1650,
+          3300,
+          4950,
+          6600,
+          8250,
+          9980
+        ],
+        "coolant": [
+          87,
+          88,
+          89,
+          88,
+          89,
+          89
+        ],
+        "oil": [
+          52,
+          51,
+          51,
+          50,
+          51,
+          51
+        ]
+      }
+    }
+  },
+  {
+    "vehicle_id": "FL-103",
+    "make_model": "Kenworth T680",
+    "status": "Idle",
+    "telemetry": {
+      "gps": {
+        "lat": 37.6879,
+        "lng": -122.4702
+      },
+      "fuel_level_pct": 52,
+      "fuel_drop_5m_pct": 0.2,
+      "coolant_temp_c": 96,
+      "oil_pressure_psi": 42,
+      "fuel_rate_lph": 14.2,
+      "mpg": 6.8,
+      "co2_tons_month": 5.9,
+      "odometer_km": 215800,
+      "idle_time_mins_today": 134
+    },
+    "maintenance": {
+      "health_score": 71,
+      "active_dtc": [
+        "P0128"
+      ],
+      "last_service_date": "2026-09-20",
+      "next_service_due": "2026-11-30"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          64,
+          61,
+          59,
+          56,
+          54,
+          52
+        ],
+        "dist": [
+          30,
+          82,
+          120,
+          145,
+          152,
+          158
+        ],
+        "coolant": [
+          89,
+          92,
+          94,
+          95,
+          96,
+          96
+        ],
+        "oil": [
+          45,
+          44,
+          43,
+          43,
+          42,
+          42
+        ]
+      },
+      "7d": {
+        "fuel": [
+          82,
+          68,
+          54,
+          79,
+          63,
+          52
+        ],
+        "dist": [
+          280,
+          560,
+          810,
+          1080,
+          1320,
+          1540
+        ],
+        "coolant": [
+          91,
+          93,
+          94,
+          95,
+          95,
+          96
+        ],
+        "oil": [
+          44,
+          44,
+          43,
+          43,
+          42,
+          42
+        ]
+      },
+      "30d": {
+        "fuel": [
+          78,
+          60,
+          84,
+          55,
+          69,
+          52
+        ],
+        "dist": [
+          1100,
+          2250,
+          3400,
+          4520,
+          5680,
+          6790
+        ],
+        "coolant": [
+          90,
+          92,
+          93,
+          94,
+          95,
+          96
+        ],
+        "oil": [
+          45,
+          44,
+          43,
+          43,
+          42,
+          42
+        ]
+      }
+    }
+  },
+  {
+    "vehicle_id": "FL-104",
+    "make_model": "Peterbilt 579",
+    "status": "Critical Fault",
+    "telemetry": {
+      "gps": {
+        "lat": 37.8272,
+        "lng": -122.2913
+      },
+      "fuel_level_pct": 31.4,
+      "fuel_drop_5m_pct": 14.2,
+      "coolant_temp_c": 108,
+      "oil_pressure_psi": 29,
+      "fuel_rate_lph": 36.5,
+      "mpg": 5.4,
+      "co2_tons_month": 6.8,
+      "odometer_km": 274120,
+      "idle_time_mins_today": 112
+    },
+    "maintenance": {
+      "health_score": 42,
+      "active_dtc": [
+        "P0300",
+        "P0171"
+      ],
+      "last_service_date": "2026-08-11",
+      "next_service_due": "2026-11-26"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          68,
+          64,
+          59,
+          55,
+          45.6,
+          31.4
+        ],
+        "dist": [
+          40,
+          102,
+          168,
+          220,
+          255,
+          272
+        ],
+        "coolant": [
+          94,
+          97,
+          101,
+          104,
+          106,
+          108
+        ],
+        "oil": [
+          41,
+          39,
+          36,
+          33,
+          31,
+          29
+        ]
+      },
+      "7d": {
+        "fuel": [
+          84,
+          71,
+          58,
+          76,
+          52,
+          31.4
+        ],
+        "dist": [
+          320,
+          650,
+          980,
+          1300,
+          1590,
+          1840
+        ],
+        "coolant": [
+          93,
+          96,
+          99,
+          102,
+          105,
+          108
+        ],
+        "oil": [
+          42,
+          40,
+          37,
+          34,
+          31,
+          29
+        ]
+      },
+      "30d": {
+        "fuel": [
+          88,
+          69,
+          74,
+          59,
+          63,
+          31.4
+        ],
+        "dist": [
+          1400,
+          2850,
+          4200,
+          5600,
+          6950,
+          8120
+        ],
+        "coolant": [
+          92,
+          95,
+          98,
+          101,
+          104,
+          108
+        ],
+        "oil": [
+          43,
+          41,
+          38,
+          35,
+          32,
+          29
+        ]
+      }
+    }
+  },
+  {
+    "vehicle_id": "FL-105",
+    "make_model": "Mack Anthem",
+    "status": "Active",
+    "telemetry": {
+      "gps": {
+        "lat": 37.7338,
+        "lng": -122.1955
+      },
+      "fuel_level_pct": 66.8,
+      "fuel_drop_5m_pct": 0.5,
+      "coolant_temp_c": 90,
+      "oil_pressure_psi": 47,
+      "fuel_rate_lph": 27.4,
+      "mpg": 7.6,
+      "co2_tons_month": 5.1,
+      "odometer_km": 168900,
+      "idle_time_mins_today": 64
+    },
+    "maintenance": {
+      "health_score": 85,
+      "active_dtc": [],
+      "last_service_date": "2026-10-08",
+      "next_service_due": "2026-12-22"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          81,
+          78,
+          75,
+          72,
+          69,
+          66.8
+        ],
+        "dist": [
+          44,
+          112,
+          185,
+          258,
+          330,
+          398
+        ],
+        "coolant": [
+          88,
+          89,
+          90,
+          90,
+          91,
+          90
+        ],
+        "oil": [
+          48,
+          48,
+          47,
+          47,
+          47,
+          47
+        ]
+      },
+      "7d": {
+        "fuel": [
+          89,
+          66,
+          82,
+          57,
+          79,
+          66.8
+        ],
+        "dist": [
+          380,
+          760,
+          1140,
+          1520,
+          1900,
+          2290
+        ],
+        "coolant": [
+          88,
+          89,
+          90,
+          90,
+          90,
+          90
+        ],
+        "oil": [
+          48,
+          48,
+          47,
+          47,
+          47,
+          47
+        ]
+      },
+      "30d": {
+        "fuel": [
+          84,
+          71,
+          88,
+          63,
+          76,
+          66.8
+        ],
+        "dist": [
+          1580,
+          3160,
+          4740,
+          6320,
+          7900,
+          9480
+        ],
+        "coolant": [
+          88,
+          89,
+          89,
+          90,
+          90,
+          90
+        ],
+        "oil": [
+          48,
+          48,
+          47,
+          47,
+          47,
+          47
+        ]
+      }
+    }
+  },
+  {
+    "vehicle_id": "FL-106",
+    "make_model": "International LT",
+    "status": "Critical Fault",
+    "telemetry": {
+      "gps": {
+        "lat": 37.6542,
+        "lng": -122.4077
+      },
+      "fuel_level_pct": 44.1,
+      "fuel_drop_5m_pct": 1.1,
+      "coolant_temp_c": 99,
+      "oil_pressure_psi": 36,
+      "fuel_rate_lph": 31.9,
+      "mpg": 6.2,
+      "co2_tons_month": 6.2,
+      "odometer_km": 249500,
+      "idle_time_mins_today": 96
+    },
+    "maintenance": {
+      "health_score": 54,
+      "active_dtc": [
+        "P0420",
+        "SPN 3226"
+      ],
+      "last_service_date": "2026-09-04",
+      "next_service_due": "2026-11-27"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          58,
+          55,
+          52,
+          49,
+          47,
+          44.1
+        ],
+        "dist": [
+          35,
+          92,
+          148,
+          205,
+          260,
+          305
+        ],
+        "coolant": [
+          91,
+          93,
+          95,
+          97,
+          98,
+          99
+        ],
+        "oil": [
+          41,
+          40,
+          39,
+          38,
+          37,
+          36
+        ]
+      },
+      "7d": {
+        "fuel": [
+          76,
+          61,
+          48,
+          72,
+          58,
+          44.1
+        ],
+        "dist": [
+          310,
+          620,
+          930,
+          1240,
+          1550,
+          1860
+        ],
+        "coolant": [
+          92,
+          94,
+          96,
+          97,
+          98,
+          99
+        ],
+        "oil": [
+          40,
+          39,
+          38,
+          37,
+          37,
+          36
+        ]
+      },
+      "30d": {
+        "fuel": [
+          80,
+          64,
+          71,
+          56,
+          62,
+          44.1
+        ],
+        "dist": [
+          1300,
+          2600,
+          3900,
+          5200,
+          6500,
+          7800
+        ],
+        "coolant": [
+          91,
+          93,
+          95,
+          96,
+          98,
+          99
+        ],
+        "oil": [
+          41,
+          40,
+          39,
+          38,
+          37,
+          36
+        ]
+      }
+    }
+  },
+  {
+    "vehicle_id": "FL-107",
+    "make_model": "Freightliner eCascadia",
+    "status": "Active",
+    "telemetry": {
+      "gps": {
+        "lat": 37.8715,
+        "lng": -122.273
+      },
+      "fuel_level_pct": 89,
+      "fuel_drop_5m_pct": 0.1,
+      "coolant_temp_c": 84,
+      "oil_pressure_psi": 52,
+      "fuel_rate_lph": 19.8,
+      "mpg": 9.1,
+      "co2_tons_month": 3.9,
+      "odometer_km": 64200,
+      "idle_time_mins_today": 18
+    },
+    "maintenance": {
+      "health_score": 97,
+      "active_dtc": [],
+      "last_service_date": "2026-11-10",
+      "next_service_due": "2027-02-10"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          96,
+          95,
+          93,
+          92,
+          90,
+          89
+        ],
+        "dist": [
+          36,
+          98,
+          162,
+          224,
+          286,
+          348
+        ],
+        "coolant": [
+          82,
+          83,
+          83,
+          84,
+          84,
+          84
+        ],
+        "oil": [
+          53,
+          52,
+          52,
+          52,
+          52,
+          52
+        ]
+      },
+      "7d": {
+        "fuel": [
+          98,
+          81,
+          94,
+          76,
+          92,
+          89
+        ],
+        "dist": [
+          340,
+          680,
+          1020,
+          1360,
+          1700,
+          2040
+        ],
+        "coolant": [
+          82,
+          83,
+          84,
+          83,
+          84,
+          84
+        ],
+        "oil": [
+          52,
+          52,
+          52,
+          52,
+          52,
+          52
+        ]
+      },
+      "30d": {
+        "fuel": [
+          95,
+          84,
+          92,
+          79,
+          91,
+          89
+        ],
+        "dist": [
+          1420,
+          2840,
+          4260,
+          5680,
+          7100,
+          8520
+        ],
+        "coolant": [
+          82,
+          83,
+          83,
+          84,
+          84,
+          84
+        ],
+        "oil": [
+          53,
+          52,
+          52,
+          52,
+          52,
+          52
+        ]
+      }
+    }
+  },
+  {
+    "vehicle_id": "FL-108",
+    "make_model": "Volvo VNR 640",
+    "status": "Active",
+    "telemetry": {
+      "gps": {
+        "lat": 37.7652,
+        "lng": -122.2416
+      },
+      "fuel_level_pct": 61.5,
+      "fuel_drop_5m_pct": 0.4,
+      "coolant_temp_c": 91,
+      "oil_pressure_psi": 46,
+      "fuel_rate_lph": 26.2,
+      "mpg": 7.7,
+      "co2_tons_month": 5.6,
+      "odometer_km": 184320,
+      "idle_time_mins_today": 82
+    },
+    "maintenance": {
+      "health_score": 81,
+      "active_dtc": [],
+      "last_service_date": "2026-10-01",
+      "next_service_due": "2026-12-18"
+    },
+    "history": {
+      "24h": {
+        "fuel": [
+          76,
+          73,
+          70,
+          67,
+          64,
+          61.5
+        ],
+        "dist": [
+          40,
+          104,
+          170,
+          236,
+          302,
+          368
+        ],
+        "coolant": [
+          89,
+          90,
+          90,
+          91,
+          91,
+          91
+        ],
+        "oil": [
+          47,
+          47,
+          46,
+          46,
+          46,
+          46
+        ]
+      },
+      "7d": {
+        "fuel": [
+          86,
+          63,
+          79,
+          54,
+          74,
+          61.5
+        ],
+        "dist": [
+          360,
+          720,
+          1080,
+          1440,
+          1800,
+          2160
+        ],
+        "coolant": [
+          89,
+          90,
+          91,
+          90,
+          91,
+          91
+        ],
+        "oil": [
+          47,
+          46,
+          46,
+          46,
+          46,
+          46
+        ]
+      },
+      "30d": {
+        "fuel": [
+          82,
+          67,
+          85,
+          59,
+          73,
+          61.5
+        ],
+        "dist": [
+          1510,
+          3020,
+          4530,
+          6040,
+          7550,
+          9060
+        ],
+        "coolant": [
+          89,
+          90,
+          90,
+          91,
+          91,
+          91
+        ],
+        "oil": [
+          47,
+          47,
+          46,
+          46,
+          46,
+          46
+        ]
+      }
+    }
+  }
+]
